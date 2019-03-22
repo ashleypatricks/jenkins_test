@@ -1,5 +1,3 @@
-Jenkinsfile(Declaritive Pipeline)
-
 pipeline {
     agent{
         docker{
